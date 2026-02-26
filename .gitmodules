@@ -1,0 +1,12 @@
+[submodule "React_Active"]
+	path = React_Active
+	url = https://github.com/Arsgorv/React_Active.git
+[submodule "React_Passive"]
+	path = React_Passive
+	url = https://github.com/Arsgorv/React_Passive.git
+[submodule "OlfactoryBulb_VigilanceStates"]
+	path = OlfactoryBulb_VigilanceStates
+	url = https://github.com/Arsgorv/OlfactoryBulb_VigilanceStates.git
+[submodule "PreProcessing_modules"]
+	path = PreProcessing_modules
+	url = https://github.com/Arsgorv/PreProcessing_modules.git
